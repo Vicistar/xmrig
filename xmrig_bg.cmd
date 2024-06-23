@@ -1,6 +1,6 @@
 @echo off
 
-set "xmrigPath=C:\win\xmrig-main\xmrig-main\xmrig.exe"
+set "xmrigPath=C:\win\xmrig-main\xmrig.exe"
 
 rem Check if xmrig.exe exists at the specified path
 if not exist "%xmrigPath%" (
